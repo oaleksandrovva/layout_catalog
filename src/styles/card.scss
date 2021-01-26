@@ -7,10 +7,10 @@
   &__photo {
     margin: 13px 2px 42px;
     border: 3px solid transparent;
-    transition: margin-top 1s,
-      padding-top 1s,
-      border 1s,
-      transform 1s;
+    transition: margin-top $time-changes,
+      padding-top $time-changes,
+      border $time-changes,
+      transform $time-changes;
 
     &:hover {
       margin-top: 0;
