@@ -2,7 +2,9 @@ $main-font: "Roboto", sans-serif;
 $main-color: #00acdc;
 $star-size: 15px;
 $back-color: #fff;
+$card-border: #f3f3f3;
 $logo-size: 40px;
+$time-changes: 1s;
 
 @mixin flex {
   display: flex;
