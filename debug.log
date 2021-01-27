@@ -1,3 +1,14 @@
 [0126/165904.340:ERROR:crash_report_database_win.cc(455)] unexpected header
 [0126/190703.744:ERROR:crash_report_database_win.cc(455)] unexpected header
 [0127/175715.926:ERROR:crash_report_database_win.cc(455)] unexpected header
+[0127/180715.970:ERROR:crash_report_database_win.cc(455)] unexpected header
+[0127/180715.970:ERROR:directory_reader_win.cc(43)] FindFirstFile: Системе не удается найти указанный путь. (0x3)
+[0127/180715.970:ERROR:crash_report_database_win.cc(455)] unexpected header
+[0127/180715.970:ERROR:crash_report_database_win.cc(455)] unexpected header
+[0127/181215.931:ERROR:crash_report_database_win.cc(455)] unexpected header
+[0127/182715.944:ERROR:crash_report_database_win.cc(455)] unexpected header
+[0127/184215.948:ERROR:crash_report_database_win.cc(455)] unexpected header
+[0127/185715.949:ERROR:crash_report_database_win.cc(455)] unexpected header
+[0127/191215.960:ERROR:crash_report_database_win.cc(455)] unexpected header
+[0127/192716.009:ERROR:crash_report_database_win.cc(455)] unexpected header
+[0127/192943.279:ERROR:crash_report_database_win.cc(455)] unexpected header
