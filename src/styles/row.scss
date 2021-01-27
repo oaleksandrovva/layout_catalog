@@ -4,3 +4,9 @@
   justify-content: center;
   gap: 48px;
 }
+
+@media screen and (max-width: 900px) {
+  .row {
+    grid-template-columns: repeat(auto-fill, 200px);
+  }
+}
