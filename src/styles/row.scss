@@ -1,8 +1,6 @@
 .row {
-  display: flex;
+  display: grid;
+  grid-template-columns: repeat(4, 200px);
   justify-content: center;
-
-  &__item {
-    margin: 0 24px;
-  }
+  gap: 48px;
 }

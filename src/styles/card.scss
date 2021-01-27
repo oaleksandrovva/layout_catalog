@@ -37,13 +37,12 @@
   }
 
   &__code {
-    margin: 5px 0 0;
+    margin: 5px 0 15px;
   }
 
   &__rating {
     @include flex;
     align-items: center;
-    margin-top: 15px;
   }
 
   &__price {
